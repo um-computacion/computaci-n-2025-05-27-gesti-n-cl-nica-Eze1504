@@ -4,9 +4,9 @@
 ## 👤 Información del Alumno
 
 ### 📋 Datos Personales
-- **Nombre y Apellido**: [Completar con nombre y apellido]
+- **Nombre y Apellido**: Ezequiel Sarabia
 - **Ciclo Lectivo**: 2025
-- **Carrera**: [Completar con nombre de la carrera]
+- **Carrera**: Ing. en Informatica
 
 ## ⏰ Información Importante sobre la Entrega
 
